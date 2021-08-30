@@ -3,4 +3,4 @@ Ott analysis chat bot link : https://web-chat.global.assistant.watson.cloud.ibm.
 
 ott platform dashboard link : https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FOTT%2BPlatform%2BDashboard&action=view&mode=dashboard&subView=model0000017b930994c6_00000000
 
-ott platform graphical analysis : https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FOTT%2BPlatform%2BGraphical%2BAnalysis
+ott platform graphical analysis link : https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FOTT%2BPlatform%2BGraphical%2BAnalysis
